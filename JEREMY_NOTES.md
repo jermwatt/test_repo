@@ -1,0 +1,3 @@
+# Jeremy notes
+
+- some notes
